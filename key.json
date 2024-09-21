@@ -1,3 +1,6 @@
-Name = "v:code_packv1"
-Ownerid = "cjDwvbUbb9"
-APPVersion = "1.0"
+{
+  "vcodeMTA-PackV1": {
+    "45.157.16.147":"developer"
+    "45.9.30.50":"vcodemta-licensekey125215"
+  }
+}
