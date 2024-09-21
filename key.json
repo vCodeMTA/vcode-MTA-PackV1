@@ -1,6 +1,3 @@
-public static api SkyAuthApp = new api(
-name: "v:code_packv1",
-ownerid: "cjDwvbUbb9",
-secret: "34eee5d8c4565ed957eabcaf624f59c6d3134b52ded2670b37e64cda30ad4c09",
-version: "1.0"
-);
+Name = "v:code_packv1"
+Ownerid = "cjDwvbUbb9"
+APPVersion = "1.0"
